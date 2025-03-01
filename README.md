@@ -14,6 +14,9 @@ Ensure **Go** is installed on your machine, then execute:
 ```sh
 go run main.go
 ```
+## Control Flow Graph
+![_](FlowChart.png)
+
 
 ## Cyclomatic Complexity  
 Using the formula **𝑀 = 𝐸 − 𝑁 + 2𝑃**, where:  
